@@ -42,3 +42,14 @@
 - creating and sharing computation documents
 - can combine code execution
 
+## Anaconda Navigator
+- desktop GUI
+- Packages
+- application
+- windows , macos, linux
+
+# INSTALLATION
+
+1. https://www.anaconda.com/download go to the website
+2. dowanload the anaconda
+3. complete setup
