@@ -1,7 +1,18 @@
 # 09-01-2023    DAY 1   Basics of Python Programming & Installation 
 
-## Life cycle of python
+## PYTHON HISTORY
+- GUIDO VAN ROSSUM
+- 1991 - 1ST RELEASE - 0.9.9
+- 2000 - 2ND RELEASE - 2.0
+- 2008 - 3RD RELEASE - 3.0
 
+## Porns
+1. easy syntax
+2. easy to access language
+3. large standard libarary
+4. open-sourcing
+
+## Life cycle of python
 1. Understand business problem
 2. preparing the data
 3. Explotry data analysis
@@ -9,4 +20,25 @@
 5. Evaluting the model
 6. Deploying the model 
 
+## Algorithms
+- step by step procedure -> define set of instruction -> desired output
+
+## Flowchart
+- diagramatic representation
+
+## Pseudo code
+- term - used in programming and  algorithm based fields
+- representation of algorithm
+
+## IDE 
+- integreted development enviroment
+- write - run - debuge code at one place
+- basically a software
+- provide coding enviroment
+- example : pycharm, vs code, sublime, jupyter
+
+## Jupyter notebook
+- original web application 
+- creating and sharing computation documents
+- can combine code execution
 
