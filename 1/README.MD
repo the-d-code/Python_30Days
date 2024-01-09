@@ -53,3 +53,7 @@
 1. https://www.anaconda.com/download go to the website
 2. dowanload the anaconda
 3. complete setup
+4. open
+5. jupyter notebook lunch 
+
+ 
