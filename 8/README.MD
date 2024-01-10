@@ -8,6 +8,5 @@
 - ordered
 - changeble
 - duplicate
-
 ![List in python](image.png)
 
