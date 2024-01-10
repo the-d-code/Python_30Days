@@ -14,3 +14,5 @@
 
 10-01-2023 | DAY 2  | Variables & Operators in python 
 10-01-2023 | DAY 3  | InBuilt functions of python
+
+> 1. Types of function in python
