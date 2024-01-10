@@ -8,7 +8,6 @@
 ![Control Flow ](image.png)
 ![Flow control](image-1.png)
 
-
 # if statement
 - descision making
 - certain statment or block of statment will be excecuted or not
