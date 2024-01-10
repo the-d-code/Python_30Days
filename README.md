@@ -18,6 +18,7 @@
 10-01-2023 | DAY 5  | Loops<BR>
 10-01-2023 | DAY 6  | User define function<BR>
 10-01-2023 | DAY 7  | String<BR>
+10-01-2023 | DAY 8  | List<BR>
 
 
 
