@@ -6,7 +6,7 @@
 - 2000 - 2ND RELEASE - 2.0
 - 2008 - 3RD RELEASE - 3.0
 
-## Porns
+## Prons
 1. easy syntax
 2. easy to access language
 3. large standard libarary
