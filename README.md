@@ -16,6 +16,7 @@
 10-01-2023 | DAY 3  | InBuilt functions of python<BR>
 10-01-2023 | DAY 4  | Control flow statement<BR>
 10-01-2023 | DAY 5  | Loops<BR>
+10-01-2023 | DAY 6  | User define function<BR>
 
 
 <!-- > 1. Types of function in python -->
