@@ -32,7 +32,6 @@
     6. bool = boolean
     7. bytes,bytarray,memoryview = binary
 
-
     ![Python data type](image.png)
 
 
