@@ -37,8 +37,7 @@
 # Want to know what we use till now with data type and all
 %whos
 
-
- # Operators
+# Operators
  - perform opeartion on values and variables
  - standard symbols use for the purpouse of logical and arithmatic operations
  - +-*/ (Operators)
