@@ -3,10 +3,8 @@
 # LOOPS
 - Used to repeate a block of code
 
-
 # While loop
 - repetadly execute until satisfied condition
-
 
 # for loops
 - run code of block for certain time
