@@ -37,5 +37,20 @@
 # Want to know what we use till now with data type and all
 %whos
 
+
  # Operators
- - 
+ - perform opeartion on values and variables
+ - standard symbols use for the purpouse of logical and arithmatic operations
+ - +-*/ (Operators)
+ - value on which it use (OPERAND)
+
+    ## TYPES
+    1. Arithmatic
+    2. Comparision
+    3. Logical
+    4. Bitwise
+    5. Assignment
+    6. Identity Operators and membership operators
+
+    ## 
+
