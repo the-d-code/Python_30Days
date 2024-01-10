@@ -5,4 +5,4 @@
 - sequence of char
 - once create cannot change it
 - collection of character
-- "" '' 
+- "" '' -> Declartion
