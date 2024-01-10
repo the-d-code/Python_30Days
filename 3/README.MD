@@ -10,8 +10,7 @@
     3. Lambda Function
     4. User-defined Function
 
-
-# 1. BuiltIN Function
+<!-- # 1. BuiltIN Function
 - 68 builtIN Function
 - Allredy predefine
-![68 builtIN Function](image.png)
+![68 builtIN Function](image.png) -->
