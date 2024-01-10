@@ -34,6 +34,8 @@
 
     ![Python data type](image.png)
 
+# Want to know what we use till now with data type and all
+%whos
 
  # Operators
  - 
