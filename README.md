@@ -23,6 +23,7 @@
 
 11-01-2023 | DAY 10 | Dictionary<BR>
 11-01-2023 | DAY 11 | Sets<BR>
+11-01-2023 | DAY 12 | Numpy Library Part - 1<BR>
 
 
 
