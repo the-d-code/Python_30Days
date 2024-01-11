@@ -20,6 +20,7 @@
 10-01-2023 | DAY 7  | String<BR>
 10-01-2023 | DAY 8  | List<BR>
 10-01-2023 | DAY 9  | Tupple<BR>
+
 11-01-2023 | DAY 10 | Dictionary<BR>
 
 
