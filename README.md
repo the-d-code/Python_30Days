@@ -30,7 +30,7 @@
 12-01-2023 | DAY 15 | Pandas Library Part - 2<BR>
 12-01-2023 | DAY 16 | Matplotlib Library Part - 1<BR>
 12-01-2023 | DAY 17 | Matplotlib Library Part - 2<BR>
-
+12-01-2023 | DAY 18 | Seaborn Library Part - 1<BR>
 
 
 <!-- > 1. Types of function in python -->
