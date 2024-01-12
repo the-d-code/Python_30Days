@@ -27,6 +27,7 @@
 11-01-2023 | DAY 13 | Numpy Library Part - 2<BR>
 
 12-01-2023 | DAY 14 | Pandas Library Part - 1<BR>
+12-01-2023 | DAY 15 | Pandas Library Part - 2<BR>
 
 
 
