@@ -26,10 +26,10 @@
 11-01-2023 | DAY 12 | Numpy Library Part - 1<BR>
 11-01-2023 | DAY 13 | Numpy Library Part - 2<BR>
 
-12-01-2023 | DAY 14 | Matplotlib Library Part - 1<BR>
+12-01-2023 | DAY 14 | Pandas Library Part - 1<BR>
 12-01-2023 | DAY 15 | Pandas Library Part - 2<BR>
 12-01-2023 | DAY 16 | Matplotlib Library Part - 1<BR>
-
+12-01-2023 | DAY 17 | Matplotlib Library Part - 2<BR>
 
 
 
