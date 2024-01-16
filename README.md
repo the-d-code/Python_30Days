@@ -33,5 +33,6 @@
 12-01-2023 | DAY 18 | Seaborn Library Part - 1<BR>
 12-01-2023 | DAY 19 | Seaborn Library Part - 2<BR>
 
+12-01-2023 | DAY 20 | Plotly Library Part - 1<BR>
 
 <!-- > 1. Types of function in python -->
