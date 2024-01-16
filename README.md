@@ -35,5 +35,5 @@
 
 16-01-2023 | DAY 20 | Plotly Library Part - 1<BR>
 16-01-2023 | DAY 21 | END TO END PROJECT<BR>
-
+16-01-2023 | DAY 22 | END TO END PROJECT<BR>
 <!-- > 1. Types of function in python -->
