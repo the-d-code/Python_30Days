@@ -34,8 +34,8 @@
 12-01-2023 | DAY 19 | Seaborn Library Part - 2<BR>
 
 16-01-2023 | DAY 20 | Plotly Library Part - 1<BR>
-16-01-2023 | DAY 21 | END TO END PROJECT<BR>
-16-01-2023 | DAY 22 | END TO END PROJECT<BR>
+16-01-2023 | DAY 21 | END TO END PROJECT - Apple product sell <BR>
+16-01-2023 | DAY 22 | END TO END PROJECT - IPL Match data<BR>
 
-16-01-2023 | DAY 23 | END TO END PROJECT<BR>
+16-01-2023 | DAY 23 | END TO END PROJECT - Netflix Stock analysis<BR>
 <!-- > 1. Types of function in python -->
