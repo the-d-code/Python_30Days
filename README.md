@@ -41,6 +41,6 @@
 
 17-01-2023 | DAY 24 | END TO END PROJECT -  <BR>
 
-17-01-2023 | DAY 29 | END TO END PROJECT - Superstore case study
- <BR>
+17-01-2023 | DAY 28 | END TO END PROJECT - Superstore case study<BR>
+17-01-2023 | DAY 29 | END TO END PROJECT - E-COMMERCE case study<BR>
 <!-- > 1. Types of function in python -->
