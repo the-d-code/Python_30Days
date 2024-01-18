@@ -38,7 +38,7 @@
 16-01-2023 | DAY 22 | END TO END PROJECT - IPL Match data<BR>
 
 17-01-2023 | DAY 23 | END TO END PROJECT - Netflix Stock analysis<BR>
-17-01-2023 | DAY 24 | END TO END PROJECT -  <BR>
+17-01-2023 | DAY 24 | END TO END PROJECT - Career Aspirations survey of GenZ <BR>
 
 25 - 27 INTERVIEW DISCUSSION 
 
